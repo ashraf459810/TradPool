@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18">
+  <g id="Icon" transform="translate(1 1)">
+    <path id="Path" d="M.455,6.222V0" transform="translate(2.273 9.778)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-2" data-name="Path" d="M.455,6.222V0" transform="translate(2.273)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-3" data-name="Path" d="M.455,8V0" transform="translate(9.545 8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-4" data-name="Path" d="M.455,4.444V0" transform="translate(9.545)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-5" data-name="Path" d="M.455,4.444V0" transform="translate(16.818 11.556)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-6" data-name="Path" d="M.455,8V0" transform="translate(16.818)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-7" data-name="Path" d="M0,.444H5.455" transform="translate(0 9.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-8" data-name="Path" d="M0,.444H5.455" transform="translate(7.273 4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-9" data-name="Path" d="M0,.444H5.455" transform="translate(14.545 11.111)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

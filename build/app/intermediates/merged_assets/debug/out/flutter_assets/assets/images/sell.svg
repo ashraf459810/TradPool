@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.095" height="21.645" viewBox="0 0 22.095 21.645">
+  <g id="Icon" transform="translate(-0.568 0.645)">
+    <ellipse id="Oval" cx="1" cy="0.952" rx="1" ry="0.952" transform="translate(8 18.095)" fill="none" stroke="#afb2b5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse id="Oval-2" data-name="Oval" cx="1" cy="0.952" rx="1" ry="0.952" transform="translate(16 18.095)" fill="none" stroke="#afb2b5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Group_6" data-name="Group 6" transform="translate(-1421.478 -851.768)">
+      <path id="Path_9" data-name="Path 9" d="M1444.1,855.863l-3.549,9.829a1.092,1.092,0,0,1-1.027.721H1428.6a1.092,1.092,0,0,1-1.092-.83l-3.036-12.276h-1.332a1.092,1.092,0,1,1,0-2.184h2.184a1.092,1.092,0,0,1,1.092.83l3.036,12.276h9.305l3.276-9.108a1.092,1.092,0,0,1,2.053.743Zm-12.538.4,1.409-1.42v5.013a1.092,1.092,0,1,0,2.184,0v-5.013l1.409,1.42a1.092,1.092,0,0,0,1.544.007l.006-.007a1.092,1.092,0,0,0,.007-1.544l-.007-.007-3.276-3.276a1.129,1.129,0,0,0-1.551,0l-3.276,3.276a1.1,1.1,0,0,0,1.551,1.551Z" fill="#afb2b5"/>
+    </g>
+  </g>
+</svg>
