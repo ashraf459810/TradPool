@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Icon" transform="translate(1 1)">
+    <rect id="Rectangle" width="7.778" height="7.778" fill="none" stroke="#08b0b9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="7.778" height="7.778" transform="translate(12.222)" fill="none" stroke="#08b0b9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="7.778" height="7.778" transform="translate(12.222 12.222)" fill="none" stroke="#08b0b9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="7.778" height="7.778" transform="translate(0 12.222)" fill="none" stroke="#08b0b9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
