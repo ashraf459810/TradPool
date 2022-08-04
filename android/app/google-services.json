@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530883107125",
+    "project_id": "tradpool-554f0",
+    "storage_bucket": "tradpool-554f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530883107125:android:aea48bc38551032e8d547c",
+        "android_client_info": {
+          "package_name": "com.example.tradpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530883107125-cgija4suab54b6aa9cj3r3c43ig16t9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tradpool",
+            "certificate_hash": "769ffaab3649818737813628c2ab67538118a9e7"
+          }
+        },
+        {
+          "client_id": "530883107125-v7nfjh40n26cjid8ddgblk7rfg0teui8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVpGxynjSvRGfu9Rb8NAK088zzGyveNew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530883107125-v7nfjh40n26cjid8ddgblk7rfg0teui8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
