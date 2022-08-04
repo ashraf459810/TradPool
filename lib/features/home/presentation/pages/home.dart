@@ -379,14 +379,14 @@ try {
                               return InkWell(
                                   onTap: () {
 
-                        //test
+                      
                                     nav(
                                         context,
                                         BoutiqeAuctions(
                                           boutique: topAuctions[index].subscriptionActivationId,
                                         ));
                                   },
-                                  chgitild: BoutiqueSamle(
+                                  child: BoutiqueSamle(
                                     image:   topAuctions[index].attachments.isNotEmpty? topAuctions[index].attachments[0].publicUrl:  "https://cdn1.iconfinder.com/data/icons/nuuline-shops-venues/128/shop_store_retail_commerce-14-512.png",
                              
                                     ));
