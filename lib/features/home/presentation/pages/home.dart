@@ -51,7 +51,6 @@ class _HomeState extends State<Home>  with SingleTickerProviderStateMixin {
   List<HeaderElement> sliders = [];
   String notificationCount;
   List<SupportTypeModel> list= [];
-  // List<HomeAuctions> homeAuctions = [];
   List<TopBoutique> topAuctions = [];
   
  List<AboutToFinish> auctionsMayLike = [];
